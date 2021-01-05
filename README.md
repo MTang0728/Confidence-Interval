@@ -10,6 +10,7 @@ Date | Topic | Post
 -----|-------|-----
 2020-10-20 | Confidence Interval | [A Detailed Look at Confidence Level](https://michaeltang101.medium.com/a-detailed-look-at-confidence-interval-a75c063a9f07)
 2020-12-03 | Statistical Significance | [What Does Statistically Significant Mean?](https://michaeltang101.medium.com/what-does-statistically-significant-mean-68b1c55f1ba5)
+2020-01-04 | TD-IDF | [How Does TD-IDF Work?](https://michaeltang101.medium.com/how-does-tf-idf-work-bd83f111778)
 
 
 
